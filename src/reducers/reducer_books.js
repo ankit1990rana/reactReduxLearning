@@ -1,4 +1,4 @@
-export default function(){
+export default function BooksReducer (){
     return [
         { title : 'First Book' },
         { title : 'Second Book' },
